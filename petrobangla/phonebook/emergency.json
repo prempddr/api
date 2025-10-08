@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "name": "Emergency 1",
+        "office": "no_image",
+        "mobile": "001"
+    },
+    {
+        "id": 2,
+        "name": "Emergency 2",
+        "office": "no_image",
+        "mobile": "002"
+    }
+]
