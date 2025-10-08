@@ -58,5 +58,15 @@
         "mobile": "০১",
         "pabx": "",
         "email": "mahmud@.org.bd"
+    },
+    {
+        "id": 7,
+        "image": "https://i.pinimg.com/474x/5d/65/ab/5d65ab3d364e83e2c472d474c2528016.jpg",
+        "name": "কুত্তা",
+        "designation": "উপ-(শাখা) 21n2",
+        "office": "দপ্তর 12h1n",
+        "mobile": "০১755757575",
+        "pabx": "",
+        "email": "mahmud@org.bd"
     }
 ]
