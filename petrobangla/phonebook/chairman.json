@@ -48,5 +48,15 @@
         "mobile": "০১৬৭৬১৬৩৬৮৯",
         "pabx": "",
         "email": "saikat.mahmud@petrobangla.org.bd"
+    },
+    {
+        "id": 6,
+        "image": "https://plus.unsplash.com/premium_photo-1694819488591-a43907d1c5cc?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y3V0ZSUyMGRvZ3xlbnwwfHwwfHx8MA%3D%3D",
+        "name": "মাহমুদ",
+        "designation": "উপ-ব্যবস্থাপক (শাখা)",
+        "office": "চেয়ারম্যান এর দপ্তর",
+        "mobile": "০১৬৭",
+        "pabx": "",
+        "email": "mahmud@petrobangla.org.bd"
     }
 ]
