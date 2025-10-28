@@ -3,42 +3,42 @@
         "id": 1,
         "name": "তিতাস গ্যাস",
         "designation": "ট্রান্সমিশন অ্যান্ড ডিষ্ট্রিবিউশন কোম্পানী লিমিটেড",
-        "mobile": "১৬৪৯৬",
-        "office": "no_image"
+        "office": "no_image",
+        "mobile": "১৬৪৯৬"
     },
     {
         "id": 2,
         "name": "বাখরাবাদ গ্যাস",
         "designation": "ডিষ্ট্রিবিউশন কোম্পানী লিমিটেড",
-        "mobile": "১৬৫২৩",
         "office": "no_image",
+        "mobile": "১৬৫২৩"
     },
     {
         "id": 3,
         "name": "জালালাবাদ গ্যাস",
         "designation": "ট্রান্সমিসন এ্যান্ড ডিষ্ট্রিবিউশন কোম্পানী লিমিটেড",
-        "mobile": "১৬৫১১",
-        "office": "no_image"
+        "office": "no_image",
+        "mobile": "১৬৫১১"
     },
     {
         "id": 4,
         "name": "পশ্চিমাঞ্চল গ্যাস",
         "designation": "কোম্পানী লিমিটেড",
-        "mobile": "১৬৫১৪",
-        "office": "no_image"
+        "office": "no_image",
+        "mobile": "১৬৫১৪"
     },
     {
         "id": 5,
         "name": "কর্ণফুলী গ্যাস",
         "designation": "ডিষ্ট্রিবিউশন কোম্পানী লিমিটেড",
-        "mobile": "১৬৫১২",
-        "office": "no_image"
+        "office": "no_image",
+        "mobile": "১৬৫১২"
     },
     {
         "id": 6,
         "name": "সুন্দরবন গ্যাস",
         "designation": "ডিষ্ট্রিবিউশন কোম্পানী লিমিটেড",
-        "mobile": "১৬৫৩৯",
-        "office": "no_image"
+        "office": "no_image",
+        "mobile": "১৬৫৩৯"
     }
 ]
