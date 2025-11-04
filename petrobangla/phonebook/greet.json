@@ -1,14 +1,14 @@
 [
     {
         "id": 1,
-        "name": "Greet 1",
-        "office": "no_image",
-        "mobile": "001"
+        "image": "no_image",
+        "name": "১৬৪৯৬",
+        "designation": "তিতাস গ্যাস (টিজিটিডি পিএলসি)"
     },
     {
         "id": 2,
-        "name": "Greet 2",
-        "office": "no_image",
-        "mobile": "002"
+        "image": "no_image",
+        "name": "১৬৫২৩",
+        "designation": "বাখরাবাদ গ্যাস ডিস্ট্রিবিউশন কোম্পানী লিমিটেড"
     }
 ]
