@@ -1,27 +1,27 @@
 [
     {
         "id": 1,
-        "image": "",
-        "name": "1",
-        "designation": "",
+        "image": "https://petrobangla.org.bd/sites/default/files/files/petrobangla.portal.gov.bd/officer_list/1eb44f1f_6ee1_4a91_a4db_6c97d03ed5c3/2024-04-23-10-03-b381f03af88b239ce432ccaefc542eeb.JPG",
+        "name": "এ কে এম মিজানুর রহমান",
+        "designation": "পরিচালক (অর্থ)",
         "office": "অর্থ পরিদপ্তর",
-        "mobile": "",
+        "mobile": "০১৭১১৭৩০৩৫৬",
         "pabx": "",
-        "email": ""
+        "email": "petrofin@petrobangla.org.bd"
     },
     {
         "id": 2,
         "image": "",
-        "name": "",
-        "designation": "",
+        "name": "মো: গোলাম মোর্তযা",
+        "designation": "মহাব্যবস্থাপক (ফাইন্যান্সিয়াল ম্যানেজমেন্ট)",
         "office": "অর্থ পরিদপ্তর",
-        "mobile": "",
+        "mobile": "০১৯১১৪৩৯৩৪৪",
         "pabx": "",
-        "email": ""
+        "email": "gm.fmd@petrobangla.org.bd"
     },
     {
         "id": 3,
-        "image": "",
+        "image": "https://petrobangla.org.bd/sites/default/files/files/petrobangla.portal.gov.bd/officer_list/10619153_452b_45fc_a684_e72b835d0fa8/2020-02-27-09-49-f1233c56a91c17636e48c9f106c9bda1.JPG",
         "name": "",
         "designation": "",
         "office": "অর্থ পরিদপ্তর",
