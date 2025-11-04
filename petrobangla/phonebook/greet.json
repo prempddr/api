@@ -3,12 +3,14 @@
         "id": 1,
         "image": "no_image",
         "name": "১৬৪৯৬",
-        "designation": "তিতাস গ্যাস (টিজিটিডি পিএলসি)"
+        "designation": "অভ্যর্থনা (উপর তলা)",
+        "mobile": ""
     },
     {
         "id": 2,
         "image": "no_image",
         "name": "১৬৫২৩",
-        "designation": "বাখরাবাদ গ্যাস ডিস্ট্রিবিউশন কোম্পানী লিমিটেড"
+        "designation": "অভ্যর্থনা (নীচ তলা)",
+        "mobile": ""
     }
 ]
