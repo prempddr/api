@@ -2,22 +2,15 @@
     {
         "id": 1,
         "image": "",
-        "name": "১৬৪৯৬",
-        "designation": "অভ্যর্থনা (উপর তলা)",
+        "name": "৩১৯",
+        "designation": "অভ্যর্থনা (৪র্থ তলা)",
         "mobile": ""
     },
     {
         "id": 2,
         "image": "",
-        "name": "১৬৫২৩",
+        "name": "৪৯৬",
         "designation": "অভ্যর্থনা (নীচ তলা)",
-        "mobile": ""
-    },
-    {
-        "id": 3,
-        "image": "",
-        "name": "007",
-        "designation": "Test",
-        "mobile": ""
+        "mobile": "০২-৫৫০১৩৬৯৭"
     }
 ]
