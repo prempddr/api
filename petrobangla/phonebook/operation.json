@@ -5,7 +5,7 @@
         "name": "প্রকৌ. মোঃ রফিকুল ইসলাম",
         "designation": "পরিচালক (অপারেশন এন্ড মাইনস)",
         "office": "অপারেশন এন্ড মাইন্স পরিদপ্তর",
-        "mobile": "৮৮০১৭১১৪৯৫৪৮১",
+        "mobile": "০১৭১১৪৯৫৪৮১",
         "pabx": "",
         "email": "doperation@petrobangla.org.bd"
     },
@@ -15,7 +15,7 @@
         "name": "প্রকৌ. মোঃ সাইফুল ইসলাম",
         "designation": "ঊর্দ্ধতন মহাব্যবস্থাপক (এলএনজি)",
         "office": "অপারেশন এন্ড মাইন্স পরিদপ্তর",
-        "mobile": "৮৮০১৭৩০৭১০৬৮৩",
+        "mobile": "০১৭৩০৭১০৬৮৩",
         "pabx": "",
         "email": "lng@petrobangla.org.bd"
     },
@@ -25,7 +25,7 @@
         "name": "প্রকৌ. মোঃ আবু সাকলায়েন",
         "designation": "মহাব্যবস্থাপক (এনভায়রনমেন্ট এন্ড সেফটি)",
         "office": "অপারেশন এন্ড মাইন্স পরিদপ্তর",
-        "mobile": "৮৮০১৫৫২৫৪০১২১",
+        "mobile": "০১৫৫২৫৪০১২১",
         "pabx": "",
         "email": "gm.esd@petrobangla.org.bd"
     },
@@ -35,7 +35,7 @@
         "name": "প্রকৌ. মোঃ হারুন ভূঁইয়া",
         "designation": "মহাব্যবস্থাপক (ইঞ্জিনিয়ারিং)",
         "office": "অপারেশন এন্ড মাইন্স পরিদপ্তর",
-        "mobile": "৮৮০১৯৭১৪৮১০৭৫",
+        "mobile": "০১৯৭১৪৮১০৭৫",
         "pabx": "",
         "email": "gmengineering@petrobangla.org.bd"
     },
@@ -45,7 +45,7 @@
         "name": "মোঃ ইমাম উদ্দিন শেখ",
         "designation": "মহাব্যবস্থাপক (উৎপাদন ও বিপণন)",
         "office": "অপারেশন এন্ড মাইন্স পরিদপ্তর",
-        "mobile": "৮৮০১৭১১৮০০৫২১",
+        "mobile": "০১৭১১৮০০৫২১",
         "pabx": "",
         "email": "gm.pnm@petrobangla.org.bd"
     },
@@ -55,7 +55,7 @@
         "name": "মোঃ শাহ আলম",
         "designation": "মহাব্যবস্থাপক ও প্রকল্প পরিচালক",
         "office": "অপারেশন এন্ড মাইন্স পরিদপ্তর",
-        "mobile": "৮৮০১৭৩৩৬৮৬২২২",
+        "mobile": "০১৭৩৩৬৮৬২২২",
         "pabx": "",
         "email": "lng@petrobangla.org.bd"
     },
@@ -65,7 +65,7 @@
         "name": "মেহেরুল হাসান",
         "designation": "মহাব্যবস্থাপক (রিজার্ভয়ার এন্ড ডাটা ম্যানেজমেন্ট)",
         "office": "অপারেশন এন্ড মাইন্স পরিদপ্তর",
-        "mobile": "+৮৮০১৭১১০৩০৮৯০",
+        "mobile": "+০১৭১১০৩০৮৯০",
         "pabx": "৪০৭",
         "email": "gmrdm@petrobangla.org.bd"
     },
@@ -75,248 +75,258 @@
         "name": "মোঃ সালাহ উদ্দিন",
         "designation": "মহাব্যবস্থাপক (এলএনজি)",
         "office": "অপারেশন এন্ড মাইন্স পরিদপ্তর",
-        "mobile": "+৮৮০১৭১১৩০০৮৯৩",
+        "mobile": "০১৭১১৩০০৮৯৩",
         "pabx": "",
         "email": "salahuddin.pb@petrobangla.org.bd"
     },
     {
         "id": 9,
-        "image": "",
-        "name": "",
-        "designation": "",
+        "image": "https://petrobangla.org.bd/sites/default/files/files/petrobangla.portal.gov.bd/officer_list/59f851d0_2710_4c40_abb9_272a0ce6cc6b/2025-11-11-09-46-f931625ea46f7bf8f1d702e389532256.jpeg",
+        "name": "কোহিনূর খানম",
+        "designation": "উপ-মহাব্যবস্থাপক (ইঞ্জিনিয়ারিং)",
         "office": "অপারেশন এন্ড মাইন্স পরিদপ্তর",
-        "mobile": "",
+        "mobile": "০১৭১১১১১০৩৬",
         "pabx": "",
-        "email": ""
+        "email": "dgm.engineering@petrobangla.org.bd"
     },
     {
         "id": 10,
-        "image": "",
-        "name": "",
-        "designation": "",
+        "image": "https://petrobangla.org.bd/sites/default/files/files/petrobangla.portal.gov.bd/officer_list/acde9d13_dd34_4502_901e_cb18f8f45282/2025-11-11-14-14-755b0037fdfe36206171c5c856dd4580.jpg",
+        "name": "প্রকৌ. মোহাঃ মাহমুদুল হাসান",
+        "designation": "উপ-মহাব্যবস্থাপক (এলএনজি)",
         "office": "অপারেশন এন্ড মাইন্স পরিদপ্তর",
-        "mobile": "",
+        "mobile": "০১৭১২১৭৬১০৯",
         "pabx": "",
-        "email": ""
+        "email": "mahamudul.hasan@petrobangla.org.bd"
     },
     {
         "id": 11,
-        "image": "",
-        "name": "",
-        "designation": "",
+        "image": "https://petrobangla.org.bd/sites/default/files/files/petrobangla.portal.gov.bd/officer_list/3bd66d31_e5ec_4419_a472_b37b0d87dd72/2020-08-05-10-04-65566fb6a341ad07d21b46039611ea1a.jpg",
+        "name": "ড. মোঃ বেলায়েত হোসেন",
+        "designation": "উপ-মহাব্যবস্থাপক (উৎপাদন ও বিপণন)",
         "office": "অপারেশন এন্ড মাইন্স পরিদপ্তর",
-        "mobile": "",
+        "mobile": "০১৭০৭৭২২৯২৪",
         "pabx": "",
-        "email": ""
+        "email": "belayet.hossain@petrobangla.org.bd"
     },
     {
         "id": 12,
-        "image": "",
-        "name": "",
-        "designation": "",
+        "image": "https://petrobangla.org.bd/sites/default/files/files/petrobangla.portal.gov.bd/officer_list/e4d5eb0d_13aa_444e_9cad_c556b9bc4f2d/2025-11-10-11-27-72236fa406639fbb256294c8d1a5ae02.jpg",
+        "name": "মোঃ আবুল বাসার",
+        "designation": "উপ-মহাব্যবস্থাপক (রিজার্ভয়ার এন্ড ডাটা ম্যানেজমেন্ট)",
         "office": "অপারেশন এন্ড মাইন্স পরিদপ্তর",
-        "mobile": "",
+        "mobile": "০১৮৪০৩৬১৭৭০",
         "pabx": "",
-        "email": ""
+        "email": "basher.geo@petrobangla.org.bd"
     },
     {
         "id": 13,
-        "image": "",
-        "name": "",
-        "designation": "",
+        "image": "https://petrobangla.org.bd/sites/default/files/files/petrobangla.portal.gov.bd/officer_list/9823fbae_0890_4dc3_8ddc_37ee2ac54a16/2025-11-10-11-26-c2b8631755b96d4177115043d777cc62.jpg",
+        "name": "তানিয়া সুলতানা",
+        "designation": "উপ-মহাব্যবস্থাপক (রিজার্ভয়ার এন্ড ডাটা ম্যানেজমেন্ট)",
         "office": "অপারেশন এন্ড মাইন্স পরিদপ্তর",
-        "mobile": "",
+        "mobile": "০১৯৩৭৯৮৭৩৬০",
         "pabx": "",
-        "email": ""
+        "email": "tania.sultana@petrobangla.org.bd"
     },
     {
         "id": 14,
-        "image": "",
-        "name": "",
-        "designation": "",
+        "image": "https://petrobangla.org.bd/sites/default/files/files/petrobangla.portal.gov.bd/officer_list/f809f325_92b1_44a7_8526_90c2248cc3b7/2025-11-11-09-45-cd0f4da2726f292b28ed4c17c012d251.jpeg",
+        "name": "ফয়েজুন নাহার বেগম",
+        "designation": "উপ-মহাব্যবস্থাপক (এনভায়রনমেন্ট এন্ড সেইফটি)",
         "office": "অপারেশন এন্ড মাইন্স পরিদপ্তর",
-        "mobile": "",
+        "mobile": "০১৯১৫৬৯১৯২০",
         "pabx": "",
-        "email": ""
+        "email": "fayezunnahar@petrobangla.org.bd"
     },
     {
         "id": 15,
-        "image": "",
-        "name": "",
-        "designation": "",
+        "image": "https://petrobangla.org.bd/sites/default/files/files/petrobangla.portal.gov.bd/officer_list/84d6f85d_d672_4ed4_901a_0b9f656f0287/2025-08-17-10-29-beca337831969c9ef0593fb70d2c77c2.jpg",
+        "name": "মো: শহীদুল হক",
+        "designation": "উপ-মহাব্যবস্থাপক (উৎপাদন ও বিপণন)",
         "office": "অপারেশন এন্ড মাইন্স পরিদপ্তর",
-        "mobile": "",
+        "mobile": "০১৭১৭৮২৬২৬৮",
         "pabx": "",
-        "email": ""
+        "email": "shahidul.haque@petrobangla.org.bd"
     },
     {
         "id": 16,
-        "image": "",
-        "name": "",
-        "designation": "",
+        "image": "https://petrobangla.org.bd/sites/default/files/files/petrobangla.portal.gov.bd/officer_list/89554a47_b01b_43ae_bf25_c9b2343f9194/2025-11-11-09-50-01d2c8a59e6714ba1dd87b526212e098.jpeg",
+        "name": "তানিয়া নূর",
+        "designation": "উপ-মহাব্যবস্থাপক (ইঞ্জিনিয়ারিং)",
         "office": "অপারেশন এন্ড মাইন্স পরিদপ্তর",
-        "mobile": "",
+        "mobile": "০১৭২৮৮৫৩১৩৯",
         "pabx": "",
-        "email": ""
+        "email": "tania.nur@petrobangla.org.bd"
     },
     {
         "id": 17,
-        "image": "",
-        "name": "",
-        "designation": "",
+        "image": "https://petrobangla.org.bd/sites/default/files/files/petrobangla.portal.gov.bd/officer_list/efd2d542_8a07_46e6_927b_4eb451feb7d4/2025-11-16-02-35-04f3392a0e96150f9eba215c80cbd7fa.jpg",
+        "name": "মোঃ রুহুল আমিন",
+        "designation": "উপ-মহাব্যবস্থাপক (এলএনজি)",
         "office": "অপারেশন এন্ড মাইন্স পরিদপ্তর",
-        "mobile": "",
+        "mobile": "০১৭১৭১৬৬১১২",
         "pabx": "",
-        "email": ""
+        "email": "ruhulamin@petrobangla.org.bd"
     },
     {
         "id": 18,
-        "image": "",
-        "name": "",
-        "designation": "",
+        "image": "https://petrobangla.org.bd/sites/default/files/files/petrobangla.portal.gov.bd/officer_list/d37a9561_8e41_433c_a926_ddbe522ab616/2025-11-11-14-16-6c22bbf346a261ae24407e2cec86c3a2.jpg",
+        "name": "প্রকৌ. বিজয় কুমার সাহা",
+        "designation": "ব্যবস্থাপক (উৎপাদন ও বিপণন)",
         "office": "অপারেশন এন্ড মাইন্স পরিদপ্তর",
-        "mobile": "",
+        "mobile": "০১৭১৯৯৮৮৬৬১",
         "pabx": "",
-        "email": ""
+        "email": "bijoy.kumar@petrobangla.org.bd"
     },
     {
         "id": 19,
-        "image": "",
-        "name": "",
-        "designation": "",
+        "image": "https://petrobangla.org.bd/sites/default/files/files/petrobangla.portal.gov.bd/officer_list/6c142d4d_cf1d_41fa_80ca_a58305444162/2023-02-08-06-12-f02ae40c1e2df8c2a6a5b7a05747dc6b.png",
+        "name": "মোঃ সুজন হোসেন",
+        "designation": "ব্যবস্থাপক (এলএনজি)",
         "office": "অপারেশন এন্ড মাইন্স পরিদপ্তর",
-        "mobile": "",
+        "mobile": "০১৭৮০১২৩৫৪৪",
         "pabx": "",
-        "email": ""
+        "email": "sujon.hossain@petrobangla.org.bd"
     },
     {
         "id": 20,
-        "image": "",
-        "name": "",
-        "designation": "",
+        "image": "https://petrobangla.org.bd/sites/default/files/files/petrobangla.portal.gov.bd/officer_list/9f86b575_6a76_4ebb_b629_a61462b570b7/2025-11-10-09-32-fe5ca8713166798854650c9097ee9580.jpeg",
+        "name": "মোহাম্মদ সাইফুদ্দিন",
+        "designation": "ব্যবস্থাপক (ইঞ্জিনিয়ারিং)",
         "office": "অপারেশন এন্ড মাইন্স পরিদপ্তর",
-        "mobile": "",
+        "mobile": "০১৮১৩২১৮৫৭৯",
         "pabx": "",
-        "email": ""
+        "email": "mohammadsaifuddin@petrobangla.org.bd"
     },
     {
         "id": 21,
-        "image": "",
-        "name": "",
-        "designation": "",
+        "image": "https://petrobangla.org.bd/sites/default/files/files/petrobangla.portal.gov.bd/officer_list/f6f0e8b5_176e_4d66_85b7_544f9f937445/2025-11-10-09-32-b1721dfecfea30a03eb3132aafdbc95a.jpeg",
+        "name": "মোঃ রাসেল ইসলাম",
+        "designation": "ব্যবস্থাপক (উৎপাদন ও বিপণন)",
         "office": "অপারেশন এন্ড মাইন্স পরিদপ্তর",
-        "mobile": "",
+        "mobile": "০১৯১৭৩৮০৪০০",
         "pabx": "",
-        "email": ""
+        "email": "rasel564@petrobangla.org.bd"
     },
     {
         "id": 22,
-        "image": "",
-        "name": "",
-        "designation": "",
+        "image": "https://petrobangla.org.bd/sites/default/files/files/petrobangla.portal.gov.bd/officer_list/7c0516f2_89aa_4137_9abc_1e8fad0f4507/2024-11-19-04-28-8257fdcb77a98345b0963edfbec7e6fb.jpg",
+        "name": "ফিরোজা সিরাজী",
+        "designation": "ব্যবস্থাপক (রিজার্ভয়ার এন্ড ডাটা ম্যানেজমেন্ট)",
         "office": "অপারেশন এন্ড মাইন্স পরিদপ্তর",
-        "mobile": "",
+        "mobile": "০১৮১৪০৯০৫২৫",
         "pabx": "",
-        "email": ""
+        "email": "feroja.serajee@petrobangla.org.bd"
     },
     {
         "id": 23,
-        "image": "",
-        "name": "",
-        "designation": "",
+        "image": "https://petrobangla.org.bd/sites/default/files/files/petrobangla.portal.gov.bd/officer_list/f4c09f49_33d3_459f_990e_973cf9f1279b/2025-11-10-11-09-6d48136738f670f2d9dc9ac8b9cf5333.jpg",
+        "name": "মোঃ আতিক উল্লাহ বুলবুল",
+        "designation": "উপ-ব্যবস্থাপক (উৎপাদন ও বিপনন)",
         "office": "অপারেশন এন্ড মাইন্স পরিদপ্তর",
-        "mobile": "",
+        "mobile": "০১৭১৯৩৪৬১১০",
         "pabx": "",
-        "email": ""
+        "email": "atik.ullah@petrobangla.org.bd"
     },
     {
         "id": 24,
-        "image": "",
-        "name": "",
-        "designation": "",
+        "image": "https://petrobangla.org.bd/sites/default/files/files/petrobangla.portal.gov.bd/officer_list/563c10c3_896c_435e_9186_010abb5dedcd/2023-10-11-07-29-b625a9e7fa669c54645fdb08c0dfd317.jpg",
+        "name": "প্রকৌ. রূপক পাল",
+        "designation": "উপ-ব্যবস্থাপক (ইঞ্জিনিয়ারিং)",
         "office": "অপারেশন এন্ড মাইন্স পরিদপ্তর",
-        "mobile": "",
+        "mobile": "০১৭২২৮৭৪০৮৭",
         "pabx": "",
-        "email": ""
+        "email": "rupak.pal@petrobangla.org.bd"
     },
     {
         "id": 25,
-        "image": "",
-        "name": "",
-        "designation": "",
+        "image": "https://petrobangla.org.bd/sites/default/files/files/petrobangla.portal.gov.bd/officer_list/c6838b1a_d86d_4718_9a59_5bc743e14e6b/2023-10-10-10-57-34410a507e9b4d129dc5390ce45e08bf.jpg",
+        "name": "মোহাম্মদ আবরার সাউদ চৌধুরী",
+        "designation": "উপ-ব্যবস্থাপক (উৎপাদন ও বিপণন)",
         "office": "অপারেশন এন্ড মাইন্স পরিদপ্তর",
-        "mobile": "",
+        "mobile": "০১৫৫১০৬১৬৯৩",
         "pabx": "",
-        "email": ""
+        "email": "abrar.saud@petrobangla.org.bd"
     },
     {
         "id": 26,
-        "image": "",
-        "name": "",
-        "designation": "",
+        "image": "https://petrobangla.org.bd/sites/default/files/files/petrobangla.portal.gov.bd/officer_list/c2991aa4_8260_4131_9603_639ebfce2a3b/2025-11-11-09-50-4c9fc19852720701a8622fa3caca1437.jpeg",
+        "name": "প্রকৌ. মো: সুমন চৌধুরী",
+        "designation": "সহকারী ব্যবস্থাপক (রিজার্ভয়ার এন্ড ডাটা ম্যানেজমেন্ট)",
         "office": "অপারেশন এন্ড মাইন্স পরিদপ্তর",
-        "mobile": "",
+        "mobile": "০১৯৩৩১৩৪৮৭২",
         "pabx": "",
-        "email": ""
+        "email": "sumon.chowdhury@petrobangla.org.bd"
     },
     {
         "id": 27,
-        "image": "",
-        "name": "",
-        "designation": "",
+        "image": "https://petrobangla.org.bd/sites/default/files/files/petrobangla.portal.gov.bd/officer_list/ca6d6d23_f2ed_4cad_90d0_14eeb0f19a77/2025-11-11-09-49-6b36460d5ea368b06925b89895caae5c.jpeg",
+        "name": "মো: সজিব হোসেন",
+        "designation": "সহকারী ব্যবস্থাপক (ইঞ্জিনিয়ারিং)",
         "office": "অপারেশন এন্ড মাইন্স পরিদপ্তর",
-        "mobile": "",
+        "mobile": "০১৭৭০৮০২৩৪৮",
         "pabx": "",
-        "email": ""
+        "email": "sajib.hossain@petrobangla.org.bd"
     },
     {
         "id": 28,
-        "image": "",
-        "name": "",
-        "designation": "",
+        "image": "https://petrobangla.org.bd/sites/default/files/files/petrobangla.portal.gov.bd/officer_list/c97a699c_c9f2_4d34_b9a1_8eaa6f8fa882/2025-11-11-14-13-613dac8280660441099f1b1bf968ee34.jpg",
+        "name": "প্রকৌ. মোঃ মন্জুরুল ইসলাম",
+        "designation": "সহকারী ব্যবস্থাপক (এনভায়রনমেন্ট এন্ড সেইফটি)",
         "office": "অপারেশন এন্ড মাইন্স পরিদপ্তর",
-        "mobile": "",
+        "mobile": "০১৫২১৪৩২৬২০",
         "pabx": "",
-        "email": ""
+        "email": "manjurul.islam@petrobangla.org.bd"
     },
     {
         "id": 29,
-        "image": "",
-        "name": "",
-        "designation": "",
+        "image": "https://petrobangla.org.bd/sites/default/files/files/petrobangla.portal.gov.bd/officer_list/050bdf0a_32c3_4f69_8c9b_a21d98a6d95f/2023-05-22-07-05-0683a436ef9fb656ec6710c0b39c623c.jpg",
+        "name": "মোঃ শাহাদাত হোসেন",
+        "designation": "সহকারী ব্যবস্থাপক (উৎপাদন ও বিপণন)",
         "office": "অপারেশন এন্ড মাইন্স পরিদপ্তর",
-        "mobile": "",
+        "mobile": "০১৬৮২১০৬৩৮৩",
         "pabx": "",
-        "email": ""
+        "email": "shahadat.hossain@petrobangla.org.bd"
     },
     {
         "id": 30,
-        "image": "",
-        "name": "",
-        "designation": "",
+        "image": "https://petrobangla.org.bd/sites/default/files/files/petrobangla.portal.gov.bd/officer_list/4ebae26f_2be3_4795_b620_21def293007c/2023-05-23-06-09-c3032fa77c98712a2dbdd51cc5b531c6.jpg",
+        "name": "প্রকৌ. মোঃ নাজমুল ইসলাম",
+        "designation": "সহকারী ব্যবস্থাপক (রিজার্ভয়ার এন্ড ডাটা ম্যানেজমেন্ট)",
         "office": "অপারেশন এন্ড মাইন্স পরিদপ্তর",
-        "mobile": "",
+        "mobile": "০১৯১৬৯৫২৮৭২",
         "pabx": "",
-        "email": ""
+        "email": "nazmul.islam@petrobangla.org.bd"
     },
     {
         "id": 31,
-        "image": "",
-        "name": "",
-        "designation": "",
+        "image": "https://petrobangla.org.bd/sites/default/files/files/petrobangla.portal.gov.bd/officer_list/534a8657_eae9_41b8_ba19_2d9d182188f1/2023-05-23-04-17-f947a763578f1e344f0a5edf13b31203.jpg",
+        "name": "মো: নাদির হোসাইন",
+        "designation": "সহকারী ব্যবস্থাপক (এলএনজি)",
         "office": "অপারেশন এন্ড মাইন্স পরিদপ্তর",
-        "mobile": "",
+        "mobile": "০১৬২৩৪৪৫৬৩৩",
         "pabx": "",
-        "email": ""
+        "email": "nadir.hossain@petrobangla.org.bd"
     },
     {
         "id": 32,
-        "image": "",
-        "name": "",
-        "designation": "",
+        "image": "https://petrobangla.org.bd/sites/default/files/files/petrobangla.portal.gov.bd/officer_list/59d2a265_7f6a_4bb4_8f4d_25c17323a75f/2023-05-22-08-31-63508b9562ad103116f82d4bd9db11e8.jpg",
+        "name": "মাহীন বারী",
+        "designation": "সহকারী ব্যবস্থাপক (এনভায়রনমেন্ট এন্ড সেফটি)",
         "office": "অপারেশন এন্ড মাইন্স পরিদপ্তর",
-        "mobile": "",
+        "mobile": "০১৯১৫৬১৫৮১৮",
         "pabx": "",
-        "email": ""
+        "email": "mahin.bari@petrobangla.org.bd"
+    },
+    {
+        "id": 33,
+        "image": "https://petrobangla.org.bd/sites/default/files/files/petrobangla.portal.gov.bd/officer_list/91759b3f_fa98_4985_b4bc_3aa1faf25d6e/2025-01-27-04-30-600431d5ba8894bd146416c63c15d62e.png",
+        "name": "আয়েশা আক্তার খাতুন",
+        "designation": "সহকারী ব্যবস্থাপক (উৎপাদন ও বিপণন)",
+        "office": "অপারেশন এন্ড মাইন্স পরিদপ্তর",
+        "mobile": "০১৯২৪৭৪৮৬৫১",
+        "pabx": "",
+        "email": "ayesha.akter@petrobangla.org.bd"
     }
 ]
