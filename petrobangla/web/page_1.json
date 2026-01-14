@@ -2,101 +2,227 @@
     {
         "id": 1,
         "name": "গঠন ও ইতিহাস",
-        "url": "https://petrobangla.org.bd/site/page/97f30573-a225-40a8-a4c4-d93d9de60987/-",
+        "url": "https://petrobangla.org.bd/pages/static-pages/6922dfe6933eb65569e248ee",
         "file": "no"
     },
     {
         "id": 2,
         "name": "ভিশন ও মিশন",
-        "url": "https://petrobangla.org.bd/site/page/0ca3cd73-7e26-4634-bd89-4a73aeb12858/-",
+        "url": "https://petrobangla.org.bd/pages/static-pages/6922ddb2933eb65569e15ea4",
         "file": "no"
     },
     {
         "id": 3,
-        "name": "চেয়ারম্যানবৃন্দের তালিকা",
-        "url": "https://petrobangla.portal.gov.bd/sites/default/files/files/petrobangla.portal.gov.bd/files/661fb5b9_7f64_458c_a2fc_ea265b258dd9/2025-01-05-08-20-18f71835e275f8ac610d7b3ef1e848ff.pdf",
+        "name": "চেয়ারম্যানবৃন্দের তালিকা 📄",
+        "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-petrobangla/2024/12/48558a236a69419e9771cea0deb8d521.pdf",
         "file": "yes"
     },
     {
         "id": 4,
         "name": "পরিচালনা পর্ষদ",
-        "url": "https://petrobangla.org.bd/site/page/b65284ee-6c6a-4699-b54a-e100ad92cba6/-",
+        "url": "https://petrobangla.org.bd/pages/static-pages/6922e07e933eb65569e27521",
         "file": "no"
     },
     {
         "id": 5,
         "name": "ব্যবস্থাপনা পরিচালকবৃন্দ",
-        "url": "https://petrobangla.org.bd/site/page/2d3e92ec-30fc-4c3e-9ddb-955b7e3d8a2d/-",
+        "url": "https://petrobangla.org.bd/pages/static-pages/6922de91933eb65569e1ba34",
         "file": "no"
     },
     {
         "id": 6,
-        "name": "সাংগঠনিক কাঠামো",
-        "url": "https://petrobangla.org.bd/sites/default/files/files/petrobangla.portal.gov.bd/organogram/1605af62_dae2_49c4_902c_7c4264ab2dea/2020-01-14-21-39-e6db8576968417666137dcf2f26964ad.jpg",
+        "name": "সাংগঠনিক কাঠামো 📄",
+        "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-petrobangla/2024/12/e430a356b7fc4134868867c3a517dc24.jpg",
         "file": "yes"
     },
     {
         "id": 7,
         "name": "ফোকাল পয়েন্ট",
-        "url": "https://petrobangla.org.bd/site/page/60af4c89-5e9a-436f-b065-602802abf65e/-",
+        "url": "https://petrobangla.org.bd/pages/static-pages/6922dc40933eb65569e0f479",
         "file": "no"
     },
     {
         "id": 8,
-        "name": "সার্ভিস রুল ও ডেলিগেশন",
-        "url": "https://petrobangla.org.bd/site/page/5421ce35-c31c-4d59-9a59-7f063bcce0a0/-",
-        "file": "no"
+        "name": "সার্ভিস রুল 📄",
+        "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-petrobangla/2024/12/6a6845bb286c47f990dc8c06c1023dd9.pdf",
+        "file": "yes"
     },
     {
         "id": 9,
-        "name": "নিয়োগ সংক্রান্ত",
-        "url": "https://petrobangla.org.bd/site/page/97e267f9-1a69-4325-bba4-c92372aa545f/-",
-        "file": "no"
+        "name": "ডেলিগেশন 📄",
+        "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-petrobangla/2024/12/43056a30aa0c44a89e9d600eb8baf67b.pdf",
+        "file": "yes"
     },
     {
         "id": 10,
-        "name": "প্রকাশনা সমূহ",
-        "url": "https://petrobangla.org.bd/site/view/publications/-",
-        "file": "no"
+        "name": "মডেল পিএসসি 📄",
+        "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-petrobangla/2024/12/2ec1b17cdd9f4a6cb223ff95b2919ce4.pdf",
+        "file": "yes"
     },
     {
         "id": 11,
-        "name": "প্রকল্পের তালিকা",
-        "url": "https://petrobangla.org.bd/site/view/projects/-",
-        "file": "no"
+        "name": "বাংলাদেশ একারেজ ব্লক ম্যাপ 📄",
+        "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-petrobangla/2024/12/4c63db111bf844d6a5e487db25f0bec0.png",
+        "file": "yes"
     },
     {
         "id": 12,
-        "name": "আইন ও বিধি",
-        "url": "https://petrobangla.org.bd/site/view/legislative_information/-",
-        "file": "no"
+        "name": "মডেল পিএসসির বৈশিষ্ট্যসমূহ 📄",
+        "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-petrobangla/2024/12/3111cee62e2d4515bfab44f9004d9345.pdf",
+        "file": "yes"
     },
     {
         "id": 13,
-        "name": "আইন, বিধি ও নীতিমালার সংকলন",
-        "url": "https://petrobangla.org.bd/site/page/82e58d2d-dae2-40bf-951e-2d66154e2f16/-",
+        "name": "অধ্যাদেশ ও আইন",
+        "url": "https://petrobangla.org.bd/pages/static-pages/6922de8a933eb65569e1b6ba",
         "file": "no"
     },
     {
         "id": 14,
-        "name": "নীতিমালা",
-        "url": "https://petrobangla.org.bd/site/view/policies/-",
+        "name": "বিধিমালা, প্রবিধানমালা, নীতিমালা, নিয়মাবলী এবং গাইডলাইন",
+        "url": "https://petrobangla.org.bd/pages/static-pages/6922dbed933eb65569e0d7a3",
         "file": "no"
     },
     {
         "id": 15,
-        "name": "আইন",
-        "url": "https://petrobangla.org.bd/site/view/law/-",
+        "name": "আইন, বিধি ও নীতিমালার সংকলন",
+        "url": "https://petrobangla.org.bd/pages/static-pages/6922dd05933eb65569e13347",
         "file": "no"
     },
     {
         "id": 16,
+        "name": "নিয়োগ সংক্রান্ত",
+        "url": "https://petrobangla.org.bd/pages/static-pages/6922dfe5933eb65569e248ce",
+        "file": "no"
+    },
+    {
+        "id": 17,
+        "name": "প্রকাশনা সমূহ",
+        "url": "https://petrobangla.org.bd/pages/publications/",
+        "file": "no"
+    },
+    {
+        "id": 18,
+        "name": "প্রকল্পের তালিকা",
+        "url": "https://petrobangla.org.bd/pages/projects",
+        "file": "no"
+    },
+    {
+        "id": 19,
+        "name": "বহিঃবাংলাদেশ ছুটি",
+        "url": "https://petrobangla.org.bd/pages/go-ultimates?filters=%7B%22order%22%3A%20%226922d29d81fc96cef9e996ca%22%7D",
+        "file": "no"
+    },
+    {
+        "id": 20,
+        "name": "পাসপোর্টের জন্য অনাপত্তি পত্র",
+        "url": "https://petrobangla.org.bd/pages/go-ultimates?filters=%7B%22order%22%3A%20%226922d29d81fc96cef9e996b3%22%7D",
+        "file": "no"
+    },
+    {
+        "id": 21,
+        "name": "বিজ্ঞপ্তি ও প্রজ্ঞাপন",
+        "url": "https://petrobangla.org.bd/pages/notification-circulars",
+        "file": "no"
+    },
+    {
+        "id": 22,
+        "name": "নৈতিকতা কমিটি ও ফোকাল পয়েন্ট",
+        "url": "https://petrobangla.org.bd/pages/static-pages/6922df00933eb65569e1f140",
+        "file": "no"
+    },
+    {
+        "id": 23,
+        "name": "শুদ্ধাচার প্রজ্ঞাপন/নীতিমালা",
+        "url": "https://petrobangla.org.bd/pages/static-pages/6922dd05933eb65569e13347",
+        "file": "no"
+    },
+    {
+        "id": 24,
+        "name": "সিটিজেন চার্টার",
+        "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-petrobangla/2024/12/0bda8e4a8e704211a8ee271f4b9bebd9.pdf",
+        "file": "yes"
+    },
+    {
+        "id": 25,
+        "name": "সিটিজেন্‌স চার্টার ফোকাল পয়েন্ট",
+        "url": "https://petrobangla.org.bd/pages/static-pages/6922dfc9933eb65569e23fac",
+        "file": "no"
+    },
+    {
+        "id": 26,
+        "name": "এপিএ নির্দেশিকা ও এপিএ টিম",
+        "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-petrobangla/2024/12/5b5312f76170490cb0f74f6c2c4d3173.pdf",
+        "file": "yes"
+    },
+    {
+        "id": 27,
+        "name": "এপিএএমএস সফটওয়্যার লিংক",
+        "url": "https://apams.cabinet.gov.bd/",
+        "file": "yes"
+    },
+    {
+        "id": 28,
+        "name": "জিআরএস আপিল ও অনিক কর্মকর্তা",
+        "url": "https://petrobangla.org.bd/pages/static-pages/6922e0f8933eb65569e295d6",
+        "file": "no"
+    },
+    {
+        "id": 29,
+        "name": "অভিযোগ প্রতিকার ব্যবস্থা",
+        "url": "https://grs.gov.bd/",
+        "file": "yes"
+    },
+    {
+        "id": 30,
+        "name": "অভিযোগ প্রতিকার ব্যবস্থাপনা সংক্রান্ত নির্দেশিকা",
+        "url": "https://petrobangla.org.bd/pages/static-pages/6922db9a933eb65569e0b361",
+        "file": "no"
+    },
+    {
+        "id": 31,
+        "name": "তথ্য প্রদানকারী কর্মকর্তাগন",
+        "url": "https://petrobangla.org.bd/views/info-officers",
+        "file": "no"
+    },
+    {
+        "id": 32,
+        "name": "স্বপ্রণোদিত প্রকাশযোগ্য তথ্যের তালিকা",
+        "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-petrobangla/2024/12/9002455f41df439d9f4543167bfe094a.pdf",
+        "file": "yes"
+    },
+    {
+        "id": 33,
+        "name": "তথ্য অধিকার আইন, বিধি",
+        "url": "https://petrobangla.org.bd/pages/static-pages/6922e0ec933eb65569e292e0",
+        "file": "no"
+    },
+    {
+        "id": 34,
+        "name": "ইনোভেশন নির্দেশিকা",
+        "url": "https://petrobangla.org.bd/pages/static-pages/6922e033933eb65569e25f7c",
+        "file": "no"
+    },
+    {
+        "id": 35,
+        "name": "ইনোভেশন টিম",
+        "url": "https://petrobangla.org.bd/pages/static-pages/6922de5f933eb65569e1a357",
+        "file": "no"
+    },
+    {
+        "id": 36,
+        "name": "উদ্ভাবনী উদ্যোগ",
+        "url": "https://petrobangla.org.bd/pages/static-pages/6922dfee933eb65569e24b48",
+        "file": "no"
+    },
+    {
+        "id": 37,
         "name": "জ্বালানি ড্যাশবোর্ড",
         "url": "https://emrddashboard.gov.bd/",
         "file": "yes"
     },
     {
-        "id": 17,
+        "id": 38,
         "name": "পেট্রোবাংলা ফেসবুক পেজ",
         "url": "https://www.facebook.com/102278174968413",
         "file": "yes"
