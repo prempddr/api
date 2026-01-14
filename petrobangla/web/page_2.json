@@ -2,55 +2,85 @@
     {
         "id": 1,
         "name": "নোটিশ বোর্ড",
-        "url": "https://petrobangla.org.bd/site/view/notices",
+        "url": "https://petrobangla.org.bd/pages/notices/",
         "file": "no"
     },
     {
         "id": 2,
-        "name": "বিভিন্ন ধরণের ফর্ম",
-        "url": "https://petrobangla.org.bd/site/view/forms/%E0%A6%AC%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%A8-%E0%A6%A7%E0%A6%B0%E0%A6%A3%E0%A7%87%E0%A6%B0-%E0%A6%AB%E0%A6%B0%E0%A6%AE",
+        "name": "গোপনীয় অনুবেদন ফর্ম",
+        "url": "https://petrobangla.org.bd/pages/reports?filters=%7B%22reports_type%22%3A%20%226922d2c581fc96cef9e9a652%22%7D",
         "file": "no"
     },
     {
         "id": 3,
-        "name": "গোপনীয় অনুবেদন ফর্ম",
-        "url": "https://petrobangla.org.bd/site/view/reports/%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%B7%E0%A6%BF%E0%A6%95-%E0%A6%97%E0%A7%8B%E0%A6%AA%E0%A6%A8%E0%A7%80%E0%A7%9F-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%A6%E0%A6%A8/-",
+        "name": "বার্ষিক প্রতিবেদন",
+        "url": "https://petrobangla.org.bd/pages/annual-reports/",
         "file": "no"
     },
     {
         "id": 4,
-        "name": "দৈনিক গ্যাস ইনটেক অফটেক প্রতিবেদন",
-        "url": "https://petrobangla.org.bd/site/view/reports/%E0%A6%A6%E0%A7%88%E0%A6%A8%E0%A6%BF%E0%A6%95-%E0%A6%97%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8-%E0%A6%87%E0%A6%A8%E0%A6%9F%E0%A7%87%E0%A6%95-%E0%A6%85%E0%A6%AB%E0%A6%9F%E0%A7%87%E0%A6%95-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%A6%E0%A6%A8/-",
-        "file": "no"
-    },
-    {
-        "id": 5,
-        "name": "কয়লা উৎপাদন প্রতিবেদন",
-        "url": "https://bcmcl.portal.gov.bd/site/page/86e0ccbd-8fbc-467b-91bd-8fbc-467b-91",
-        "file": "no"
-    },
-    {
-        "id": 6,
-        "name": "মাসিক প্রতিবেদন",
-        "url": "https://petrobangla.org.bd/site/view/monthly_reports/-",
-        "file": "no"
-    },
-    {
-        "id": 7,
-        "name": "বার্ষিক প্রতিবেদন",
-        "url": "https://petrobangla.org.bd/site/view/annual_reports/-",
-        "file": "no"
-    },
-    {
-        "id": 8,
         "name": "অডিট প্রতিবেদন",
         "url": "https://petrobangla.org.bd/site/view/reports/%E0%A6%85%E0%A6%A1%E0%A6%BF%E0%A6%9F-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%A6%E0%A6%A8/-",
         "file": "no"
     },
     {
+        "id": 5,
+        "name": "পরিবেশ ও সামাজিক পরিকল্পনা",
+        "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-petrobangla/2024/12/e4a0449b700542c6af5c539b8ef1e3ab.pdf",
+        "file": "yes"
+    },
+    {
+        "id": 6,
+        "name": "বিভিন্ন ধরণের ফর্ম",
+        "url": "https://petrobangla.org.bd/pages/forms",
+        "file": "no"
+    },
+    {
+        "id": 7,
+        "name": "জাতীয় শুদ্ধাচার কৌশল কর্মপরিকল্পনা",
+        "url": "https://petrobangla.org.bd/pages/static-pages/6922dbdf933eb65569e0d210",
+        "file": "no"
+    },
+    {
+        "id": 8,
+        "name": "বাস্তবায়ন অগ্রগতি প্রতিবেদন",
+        "url": "https://petrobangla.org.bd/pages/static-pages/6922e13e933eb65569e2b10f",
+        "file": "no"
+    },
+    {
         "id": 9,
-        "name": "Test",
-        "url": "#",
+        "name": "সিটিজেনস্‌ চার্টার কর্মপরিকল্পনা ও পরিবীক্ষণ",
+        "url": "https://petrobangla.org.bd/pages/static-pages/6922dfb2933eb65569e2388a",
+        "file": "no"
+    },
+    {
+        "id": 10,
+        "name": "সেবা-প্রদান-প্রতিশ্রুতি-সংক্রান্ত-প্রতিবেদন",
+        "url": "https://petrobangla.org.bd/pages/reports?filters=%7B%22reports_type%22%3A%20%226922d2c981fc96cef9e9a7cd%22%7D",
+        "file": "no"
+    },
+    {
+        "id": 11,
+        "name": "এপিএ অর্জিত প্রতিবেদন",
+        "url": "https://petrobangla.org.bd/pages/static-pages/6922dfe0933eb65569e24739",
+        "file": "no"
+    },
+    {
+        "id": 12,
+        "name": "মাসিক/ত্রৈমাসিক/বার্ষিক পরিবীক্ষণ/মূল্যায়ন প্রতিবেদন",
+        "url": "https://petrobangla.org.bd/pages/reports?filters=%7B%22reports_type%22%3A%20%226922d2c281fc96cef9e9a55e%22%7D",
+        "file": "no"
+    },
+    {
+        "id": 13,
+        "name": "RTI কর্মপরিকল্পনা, প্রতিবেদন, আবেদন ও আপিল ফরম",
+        "url": "https://petrobangla.org.bd/pages/static-pages/6922e0a5933eb65569e27fe9",
+        "file": "no"
+    },
+    {
+        "id": 14,
+        "name": "উদ্ভাবন কর্মপরিকল্পনা ও প্রতিবেদন",
+        "url": "https://petrobangla.org.bd/pages/static-pages/6922e127933eb65569e2a8b4",
         "file": "no"
     }
 ]
